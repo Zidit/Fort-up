@@ -1,0 +1,5 @@
+
+Modifed m_funcIsQuadNeededCallback method in CubicSurfaceExractor to also use side of the cube as parameter.
+Files affected:
+library/PolyVoxCore/include/PolyVoxCore/PolyVoxCore/CubicSurfaceExractor.h
+library/PolyVoxCore/include/PolyVoxCore/PolyVoxCore/CubicSurfaceExractor.inl
