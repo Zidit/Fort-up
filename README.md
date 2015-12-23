@@ -11,15 +11,16 @@ To build you need:
  * SFGUI
  * OPENGL
  * GLEW
+ * GLM
 
 ##Install on Linux
 
 1. Install SFML and GLEW:
-	sudo apt-get install libsfml-dev libglew-dev
+	sudo apt-get install libsfml-dev libglew-dev libglm-dev
 2. Download and install [SFGUI](http://sfgui.sfml-dev.de/)
 3. Clone project from git hub:
 4. Run cmake on project root folder:
-	cmake ./ 
+	cmake ./
 5. Build project:
 	make
 6. Run game:
